@@ -98,5 +98,3 @@ Mercedes-Benz Zweimal: Model: E63sC63, Year: 4025, Speed: 270
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the description to better fit your personal style or any additional information you want to include.
