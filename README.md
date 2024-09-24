@@ -1,5 +1,3 @@
-Here's a project description for your Mercedes-Benz Java project suitable for posting on GitHub:
-
 ---
 
 # Mercedes-Benz Simulation in Java
